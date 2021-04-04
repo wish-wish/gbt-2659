@@ -1916,9 +1916,9 @@
 	"app": "http://www.texturepacker.com",
 	"version": "1.0",
 	"image": "gbt2659.png",
-	"format": "RGBA8888",
+	"format": "RGBA4444",
 	"size": {"w":1954,"h":2019},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:b05bffece18423f58b61d598ab818ea8$"
+	"smartupdate": "$TexturePacker:SmartUpdate:dbd9fedc90b84b88f478b1e6087d00b7$"
 }
 }
