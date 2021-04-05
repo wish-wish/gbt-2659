@@ -1917,8 +1917,8 @@
 	"version": "1.0",
 	"image": "gbt2659.png",
 	"format": "RGBA4444",
-	"size": {"w":1954,"h":2019},
+	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:dbd9fedc90b84b88f478b1e6087d00b7$"
+	"smartupdate": "$TexturePacker:SmartUpdate:6f121c5b572bc15cd8086872854bc9a8$"
 }
 }
